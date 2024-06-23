@@ -19,7 +19,7 @@ export default function RootLayout({
       <body className={inter.className} >{children}
         <footer>
           <div className="text-center    mb-3">
-            <a href="https://www.instagram.com/azizmuslim920/">Touchme <span className="text-blue-400">Aziz Muslim</span></a>
+            <a href="https://www.instagram.com/oscxkal/">Touchme <span className="text-blue-400">HaekalFadhilah</span></a>
           </div>
         </footer>
       </body>
